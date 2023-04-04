@@ -1,1 +1,1 @@
-Test projects for Devops School
+Test projects for DevOps School
